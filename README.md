@@ -5,9 +5,13 @@
 Features
 
 User Input: Enter your current age in an input box.
+
 Calculate Button: Calculates the remaining weeks until age 90.
+
 Popup Alerts: Displays results or error messages as a popup alert.
+
 Responsive Design: Works on various screen sizes.
+
 Live Server Compatible: Built to run seamlessly using the Live Server extension in Visual Studio Code.
 
 How It Works
