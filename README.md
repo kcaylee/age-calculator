@@ -35,6 +35,8 @@ If the user has surpassed 90 years, it congratulates them on enjoying life.
 💻 Technologies Used
 
 HTML: For the structure of the webpage.
+
 CSS: For styling and responsive design.
+
 JavaScript: For interactive functionality.
 
