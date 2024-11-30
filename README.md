@@ -2,7 +2,7 @@
 
 🌟 A simple web-based application that calculates the number of weeks you have left until the age of 90, based on your current age. Built with HTML, CSS, and JavaScript.
 
-Features
+✨ Features
 
 User Input: Enter your current age in an input box.
 
@@ -14,7 +14,7 @@ Responsive Design: Works on various screen sizes.
 
 Live Server Compatible: Built to run seamlessly using the Live Server extension in Visual Studio Code.
 
-How It Works
+🛠️ How It Works
 
 User Input:
 
@@ -32,7 +32,7 @@ If the user has years remaining, it displays the total weeks left.
 If the user is exactly 90 years old, it celebrates their milestone.
 If the user has surpassed 90 years, it congratulates them on enjoying life.
 
-Technologies Used:
+💻 Technologies Used
 
 HTML: For the structure of the webpage.
 CSS: For styling and responsive design.
