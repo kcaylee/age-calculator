@@ -13,19 +13,23 @@ Live Server Compatible: Built to run seamlessly using the Live Server extension 
 How It Works
 
 User Input:
+
 The user enters their current age in the input field.
 The input is validated to ensure it is a number greater than or equal to 0.
 
 Calculation:
+
 Calculates the number of years left until age 90.
 Converts the years into weeks (1 year = 52 weeks).
 
 Popup Alerts:
+
 If the user has years remaining, it displays the total weeks left.
 If the user is exactly 90 years old, it celebrates their milestone.
 If the user has surpassed 90 years, it congratulates them on enjoying life.
 
-Technologies Used
+Technologies Used:
+
 HTML: For the structure of the webpage.
 CSS: For styling and responsive design.
 JavaScript: For interactive functionality.
