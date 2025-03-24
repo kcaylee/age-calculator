@@ -1,42 +1,53 @@
-# Age Calculator
+# 🧮 Age Calculator
 
-🌟 A simple web-based application that calculates the number of weeks you have left until the age of 90, based on your current age. Built with HTML, CSS, and JavaScript.
+A simple and interactive **web-based application** that calculates the number of weeks you have left until the age of **90**, based on your current age.
 
-✨ Features
+Built using **HTML**, **CSS**, and **JavaScript** — this fun tool gives users a lighthearted way to reflect on time and set goals.
 
-User Input: Enter your current age in an input box.
+---
 
-Calculate Button: Calculates the remaining weeks until age 90.
+## ✨ Features
 
-Popup Alerts: Displays results or error messages as a popup alert.
+- 🔢 **User Input**  
+  Enter your current age into an input field.
 
-Responsive Design: Works on various screen sizes.
+- ✅ **Calculate Button**  
+  Instantly computes the number of weeks remaining until age 90.
 
-Live Server Compatible: Built to run seamlessly using the Live Server extension in Visual Studio Code.
+- 🚨 **Popup Alerts**  
+  - Displays result or error messages using alert popups.  
+  - Celebrates users who are exactly 90 years old.  
+  - Congratulates users over 90 for “living their best life”!
 
-🛠️ How It Works
+- 📱 **Responsive Design**  
+  Mobile-friendly layout for all screen sizes.
 
-User Input:
+- 🔄 **Live Server Compatible**  
+  Built to run smoothly with the **Live Server** extension in **Visual Studio Code**.
 
-The user enters their current age in the input field.
-The input is validated to ensure it is a number greater than or equal to 0.
+---
 
-Calculation:
+## 🛠️ How It Works
 
-Calculates the number of years left until age 90.
-Converts the years into weeks (1 year = 52 weeks).
+1. **Input Validation:**  
+   Ensures the user enters a valid number (0 or higher).
 
-Popup Alerts:
+2. **Calculation Logic:**  
+   - Calculates years left until 90.  
+   - Converts years into weeks (1 year = 52 weeks).
 
-If the user has years remaining, it displays the total weeks left.
-If the user is exactly 90 years old, it celebrates their milestone.
-If the user has surpassed 90 years, it congratulates them on enjoying life.
+3. **Result Display:**  
+   Shows an alert based on whether the user is under, at, or over 90.
 
-💻 Technologies Used
+---
 
-HTML: For the structure of the webpage.
+## 💻 Technologies Used
 
-CSS: For styling and responsive design.
+- **HTML** – Webpage structure  
+- **CSS** – Styling and responsiveness  
+- **JavaScript** – Functionality and dynamic behavior
 
-JavaScript: For interactive functionality.
+---
+
+
 
